@@ -1,7 +1,7 @@
 # reto_10
 1.Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 
--el programa desarrollado funciona a apartir de solicitar al usuario dos cosas la longitud de la lista y la lista en si misma, con el fin de sumar a lartir de la funcion sum(lista) y dividir sobre la longitud dada con anterioridad.
+- el programa desarrollado funciona a apartir de solicitar al usuario dos cosas la longitud de la lista y la lista en si misma, con el fin de sumar a lartir de la funcion sum(lista) y dividir sobre la longitud dada con anterioridad.
 
 ```pseudocode
 lista=[]
@@ -15,7 +15,7 @@ print(sum(lista)/i)
 
 2.Desarrollar un algoritmo que calcule el producto punto de dos arreglos de números enteros (reales) de igual tamaño.
 
--para desarrollar este punto me base en el programa anterior ya que se solicita la longitud de las listas y las dos listas en si, esto con el fin de definir una funcion que calcule el producto punto a partir de un ciclo que sumara el producto de los numeros en cierta posicion hasta completar las listas dadas.
+- para desarrollar este punto me base en el programa anterior ya que se solicita la longitud de las listas y las dos listas en si, esto con el fin de definir una funcion que calcule el producto punto a partir de un ciclo que sumara el producto de los numeros en cierta posicion hasta completar las listas dadas.
 
 ```pseudocode
 lista1=[]
@@ -68,7 +68,7 @@ print("la lista resusltante es "+ str(lista3))
 ```
 4 Revisar que son los algoritmos de sorting, entender bubble-sort (enlace a implementación).
 
--algoritmos de sorting:
+- algoritmos de sorting:
 Son algoritmos que fueron realizados para ordenar un conjunto de datos. Los algoritmos varían según su facilidad de entendimiento, su eficiencia, cantidad de código necesario para implementarlos, complejidad, requisitos necesarios de los datos.
   algunos son:
   1.Bubble Sort
@@ -77,12 +77,14 @@ Son algoritmos que fueron realizados para ordenar un conjunto de datos. Los algo
   4.insertion sort
   5.Heapsort
 
--bubble-sort:
+- bubble-sort:
 Bubble Sort es un algoritmo de clasificación simple que se usa comúnmente para ordenar elementos en una lista o matriz. Funciona comparando repetidamente elementos adyacentes e intercambiándolos si están en el orden incorrecto. El algoritmo recorre la lista varias veces hasta que no se necesitan más intercambios, lo que da como resultado una secuencia ordenada. Durante cada iteración, el elemento sin clasificar más grande "burbuja" hasta su posición correcta, de ahí el nombre "Clasificación de burbujas".
 
 ![image](https://github.com/AndresBustamant/reto_10/assets/141858005/4c97b749-2478-41f7-8d70-d215b1f4f6e5)
 
 Referencias:
--Algoritmos de ordenamiento. (2013, marzo 27). koketxt. https://koketxt.wordpress.com/unidad-i/algoritmos-de-ordenamient/
--Simplilearn. (2021, julio 8). How to use Bubble Sort in C programming? Simplilearn.com; Simplilearn. https://www.simplilearn.com/tutorials/c-tutorial/c-program-for-bubble-sort
+- Algoritmos de ordenamiento. (2013, marzo 27). koketxt. https://koketxt.wordpress.com/unidad-i/algoritmos-de-ordenamient/
+
+  
+- Simplilearn. (2021, julio 8). How to use Bubble Sort in C programming? Simplilearn.com; Simplilearn. https://www.simplilearn.com/tutorials/c-tutorial/c-program-for-bubble-sort
 gracias por leer has aqui 
