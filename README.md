@@ -83,8 +83,7 @@ Bubble Sort es un algoritmo de clasificación simple que se usa comúnmente para
 ![image](https://github.com/AndresBustamant/reto_10/assets/141858005/4c97b749-2478-41f7-8d70-d215b1f4f6e5)
 
 Referencias:
-- Algoritmos de ordenamiento. (2013, marzo 27). koketxt. https://koketxt.wordpress.com/unidad-i/algoritmos-de-ordenamient/
-
+- Algoritmos de ordenamiento. (2013, marzo 27). koketxt. https://koketxt.wordpress.com/unidad-i/algoritmos-de-ordenamient/   
   
 - Simplilearn. (2021, julio 8). How to use Bubble Sort in C programming? Simplilearn.com; Simplilearn. https://www.simplilearn.com/tutorials/c-tutorial/c-program-for-bubble-sort
 gracias por leer has aqui 
